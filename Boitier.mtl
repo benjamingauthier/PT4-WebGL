@@ -16,13 +16,13 @@ newmtl Fencing_Mesh_Blue
 Ka 0.000000 0.000000 0.000000
 Kd 0.427451 0.427451 0.427451
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/Fencing_Mesh_Blue.png
+map_Kd boitier/Fencing_Mesh_Blue.png
 
 newmtl _3
 Ka 0.000000 0.000000 0.000000
 Kd 0.349020 0.349020 0.349020
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/_3.png
+map_Kd boitier/_3.png
 
 newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
@@ -38,7 +38,7 @@ newmtl _7
 Ka 0.000000 0.000000 0.000000
 Kd 0.066667 0.066667 0.066667
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/_7.png
+map_Kd boitier/_7.png
 
 newmtl M_0134_DimGray
 Ka 0.000000 0.000000 0.000000
@@ -54,13 +54,13 @@ newmtl Fencing_Diamond_Mesh
 Ka 0.000000 0.000000 0.000000
 Kd 0.066667 0.066667 0.066667
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/Fencing_Diamond_Mesh.png
+map_Kd boitier/Fencing_Diamond_Mesh.png
 
 newmtl _5
 Ka 0.000000 0.000000 0.000000
 Kd 0.694118 0.694118 0.713725
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/_5.jpg
+map_Kd boitier/_5.jpg
 
 newmtl Color_004
 Ka 0.000000 0.000000 0.000000
@@ -91,7 +91,7 @@ newmtl _4
 Ka 0.000000 0.000000 0.000000
 Kd 0.788235 0.768627 0.772549
 Ks 0.330000 0.330000 0.330000
-map_Kd Boitier/_4.jpg
+map_Kd boitier/_4.jpg
 
 newmtl _Black_
 Ka 0.000000 0.000000 0.000000
